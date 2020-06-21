@@ -1,0 +1,5 @@
+# Ignore all executable
+Exe/
+
+# Ignore specific executable
+newpsftp.exe
